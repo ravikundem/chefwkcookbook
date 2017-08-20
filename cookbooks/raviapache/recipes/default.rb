@@ -17,7 +17,7 @@ service "httpd" do
 end
 
 file '/var/www/html/index.html' do
-         content 'Hello Chef configuration Management! More easy! More reliable!'
+         content 'Hello Chef configuration Management! More easy! More reliable! More fast! More accessible!'
          mode '0775'
          owner 'root'
          group 'apache'
