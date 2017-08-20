@@ -1,0 +1,8 @@
+default["raviapache"]["author"] = "DevOps"
+default["raviapache"]["course"] = "Configuration Management"
+default["raviapache"]["dev_dbhostname"] = "192.168.56.141"
+default["raviapache"]["dev_dbusername"] = "dev_ods_user"
+default["raviapache"]["dev_dbpassword"] = "dev_welcome"
+default["raviapache"]["prod_dbhostname"] = "192.168.56.141"
+default["raviapache"]["prod_dbusername"] = "prod_ods_user"
+default["raviapache"]["prod_dbpassword"] = "prod_welcome"
